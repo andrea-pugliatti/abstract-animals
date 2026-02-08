@@ -11,5 +11,7 @@ public class Main {
         cane.verso();
         passerotto.mangia();
         delfino.verso();
+
+        delfino.nuota();
     }
 }
